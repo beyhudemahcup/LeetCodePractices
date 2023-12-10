@@ -1,0 +1,15 @@
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\bin\Debug\net6.0\FindConsecutiveNumber.exe
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\bin\Debug\net6.0\FindConsecutiveNumber.deps.json
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\bin\Debug\net6.0\FindConsecutiveNumber.runtimeconfig.json
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\bin\Debug\net6.0\FindConsecutiveNumber.dll
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\bin\Debug\net6.0\FindConsecutiveNumber.pdb
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.dll
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\refint\FindConsecutiveNumber.dll
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.pdb
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\FindConsecutiveNumber.genruntimeconfig.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\FindConsecutiveNumber\obj\Debug\net6.0\ref\FindConsecutiveNumber.dll

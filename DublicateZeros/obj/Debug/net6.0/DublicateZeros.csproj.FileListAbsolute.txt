@@ -1,0 +1,15 @@
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\bin\Debug\net6.0\DublicateZeros.exe
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\bin\Debug\net6.0\DublicateZeros.deps.json
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\bin\Debug\net6.0\DublicateZeros.runtimeconfig.json
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\bin\Debug\net6.0\DublicateZeros.dll
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\bin\Debug\net6.0\DublicateZeros.pdb
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.dll
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\refint\DublicateZeros.dll
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.pdb
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\DublicateZeros.genruntimeconfig.cache
+C:\Users\Bilal\Desktop\IntToProg_Solution\LeetCodePractices\DublicateZeros\obj\Debug\net6.0\ref\DublicateZeros.dll
