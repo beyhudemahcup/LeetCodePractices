@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DublicateZeros",
+    "\\MergeSortedArray"
   ],
-  "SelectedNode": "\\LeetCodePractices.sln",
+  "SelectedNode": "\\DublicateZeros\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
